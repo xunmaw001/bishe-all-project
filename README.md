@@ -613,23 +613,23 @@
 </tr>
 <tr>
     <td>121</td>
-    <td></td>
-    <td></td>
+    <td>基于Spring Boot和Vue的医药管理系统</td>
+    <td>https://github.com/xunmaw001/medicine-management-system</td>
 </tr>
 <tr>
     <td>122</td>
-    <td></td>
-    <td></td>
+    <td>基于Spring Boot和Vue的秒杀系统设计与实现</td>
+    <td>https://github.com/xunmaw001/Design-and-Implementation-of-Flash-Sale-System</td>
 </tr>
 <tr>
     <td>123</td>
-    <td></td>
-    <td></td>
+    <td>中国陕西民俗网</td>
+    <td>https://github.com/xunmaw001/China-Shaanxi-Folk-Customs-Network</td>
 </tr>
 <tr>
     <td>124</td>
-    <td></td>
-    <td></td>
+    <td>基于Springboot+Vue的留守儿童关爱系统</td>
+    <td>https://github.com/xunmaw001/left-behind-children</td>
 </tr>
 <tr>
     <td>125</td>
